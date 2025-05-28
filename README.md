@@ -24,14 +24,38 @@ June 9 - June 13
 ## Week 3: Single-Page Applications (SPAs)
 
 June 16 - June 20
+Off June 18 - JUNETEENTH
+
+| Topic                      | Lecture | Slides | Demo |
+| -------------------------- | ------- | ------ | ---- |
+| React Router               | -       | -      | -    |
+| React Context/Redux        | -       | -      | -    |
+| Introduction to Node.js    | -       | -      | -    |
+| Introduction to Express.js | -       | -      | -    |
 
 ## Week 4: Databases
 
 June 23 - June 27
 
+| Topic                       | Lecture | Slides | Demo |
+| --------------------------- | ------- | ------ | ---- |
+| PostgreSQL/Sequelize I      | -       | -      | -    |
+| PostgreSQL/Sequelize II     | -       | -      | -    |
+| Review Session + CRUD App I | -       | -      | -    |
+| CRUD App II                 | -       | -      | -    |
+| CRUD App III                | -       | -      | -    |
+
 ## Week 5: Authentication and Deployment
 
 June 30 - July 4
+
+| Topic                                   | Lecture | Slides | Demo |
+| --------------------------------------- | ------- | ------ | ---- |
+| Registered Users and Open Authorization | -       | -      | -    |
+| Security and Restrictions               | -       | -      | -    |
+| Review Session + CRUD App I             | -       | -      | -    |
+| Deployment via Netlify and Heroku       | -       | -      | -    |
+| CRUD App III                            | -       | -      | -    |
 
 ## Week 6: Capstone
 
