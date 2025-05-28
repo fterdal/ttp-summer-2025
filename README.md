@@ -25,7 +25,7 @@ June 9 - June 13
 
 June 16 - June 20
 </br>
-Off June 18 - JUNETEENTH
+Off June 19 - JUNETEENTH
 
 | Topic                      | Lecture | Slides | Demo |
 | -------------------------- | ------- | ------ | ---- |
@@ -56,9 +56,7 @@ Off July 4 - JULY 4
 | --------------------------------------- | ------- | ------ | ---- |
 | Registered Users and Open Authorization | -       | -      | -    |
 | Security and Restrictions               | -       | -      | -    |
-| Review Session + CRUD App I             | -       | -      | -    |
-| Deployment via Netlify and Heroku       | -       | -      | -    |
-| CRUD App III                            | -       | -      | -    |
+| Deployment via Netlify and Vercel       | -       | -      | -    |
 
 ## Week 6: Capstone
 
