@@ -24,6 +24,7 @@ June 9 - June 13
 ## Week 3: Single-Page Applications (SPAs)
 
 June 16 - June 20
+</br>
 Off June 18 - JUNETEENTH
 
 | Topic                      | Lecture | Slides | Demo |
@@ -48,6 +49,8 @@ June 23 - June 27
 ## Week 5: Authentication and Deployment
 
 June 30 - July 4
+</br>
+Off July 4 - JULY 4
 
 | Topic                                   | Lecture | Slides | Demo |
 | --------------------------------------- | ------- | ------ | ---- |
