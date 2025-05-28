@@ -1,10 +1,10 @@
 # 📚😎💻 **Tech Talent Pipeline (TTP), Summer 2025**
 
-# Week 1: Introductions & Orientation
+## Week 1: Introductions & Orientation
 
 June 2 - June 6
 
-# Week 2: Foundation
+## Week 2: Foundation
 
 June 9 - June 13
 
@@ -21,18 +21,18 @@ June 9 - June 13
 [//]: # " Paste in table above >> [🖼️][collab-lec-slides] "
 [collab-lec-slides]: #link-to-slide-deck-here
 
-# Week 3: Single-Page Applications (SPAs)
+## Week 3: Single-Page Applications (SPAs)
 
 June 16 - June 20
 
-# Week 4: Databases
+## Week 4: Databases
 
 June 23 - June 27
 
-# Week 5: Authentication and Deployment
+## Week 5: Authentication and Deployment
 
 June 30 - July 4
 
-# Week 6: Capstone
+## Week 6: Capstone
 
 July 7 - July 11
