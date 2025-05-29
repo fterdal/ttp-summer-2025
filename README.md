@@ -58,6 +58,10 @@ Off July 4 - JULY 4
 | Security and Restrictions               | -       | -      | -    |
 | Deployment via Netlify and Vercel       | -       | -      | -    |
 
-## Week 6: Capstone
+## Capstone I
 
-July 7 - July 11
+July 7 - July 31
+
+## Capstone II
+
+August 1 - August 22
