@@ -19,7 +19,7 @@ June 9 - June 13
 
 [//]: # " Paste in table above >> [📺][collab-lec] "
 [collab-lec]: #link-to-lecture
-[course-layout-lec]: ./slides/00%20-%20Introductions%20and%20Course%20Layout.pdf
+[course-layout-slides]: ./slides/00%20-%20Introductions%20and%20Course%20Layout.pdf
 [//]: # " Paste in table above >> [🖼️][collab-lec-slides] "
 [collab-lec-slides]: #link-to-slide-deck-here
 
