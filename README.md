@@ -8,16 +8,18 @@ June 2 - June 6
 
 June 9 - June 13
 
-| Topic                        | Lecture | Slides | Demo |
-| ---------------------------- | ------- | ------ | ---- |
-| Collaborative Workflow (Git) | -       | -      | -    |
-| Introduction to JavaScript   | -       | -      | -    |
-| DOM Manipulation             | -       | -      | -    |
-| Introduction to React        | -       | -      | -    |
-| External API Requests        | -       | -      | -    |
+| Topic                        | Lecture | Slides                     | Demo |
+| ---------------------------- | ------- | -------------------------- | ---- |
+| Course Layout                | -       | [🖼️][course-layout-slides] | -    |
+| Collaborative Workflow (Git) | -       | -                          | -    |
+| Introduction to JavaScript   | -       | -                          | -    |
+| DOM Manipulation             | -       | -                          | -    |
+| Introduction to React        | -       | -                          | -    |
+| External API Requests        | -       | -                          | -    |
 
 [//]: # " Paste in table above >> [📺][collab-lec] "
 [collab-lec]: #link-to-lecture
+[course-layout-lec]: ./slides/00%20-%20Introductions%20and%20Course%20Layout.pdf
 [//]: # " Paste in table above >> [🖼️][collab-lec-slides] "
 [collab-lec-slides]: #link-to-slide-deck-here
 
