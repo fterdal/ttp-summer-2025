@@ -68,14 +68,15 @@ Off July 4 - INDEPENDENCE DAY
 
 | Topic                                   | Lecture | Slides | Demo |
 | --------------------------------------- | ------- | ------ | ---- |
+| Testing                                 | -       | -      | -    |
 | Registered Users and Open Authorization | -       | -      | -    |
 | Security and Restrictions               | -       | -      | -    |
-| Deployment via Netlify and Vercel       | -       | -      | -    |
+| Deployment                              | -       | -      | -    |
 
 ## Capstone I
 
-July 7 - July 31
+July 7 - July 25
 
 ## Capstone II
 
-August 1 - August 22
+July 28 - August 22
