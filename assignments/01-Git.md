@@ -1,6 +1,6 @@
 # Collaboration Workshop
 
-- **Due** June 10, 2025 by 10:00:00 AM EDT
+- **Due** June 17, 2025 by 10:00:00 AM EDT
 - **Submitting** Append your team members' names and GitHub Link (the deployed link) to the repository everyone collaborated on in the appropriate tab on the Cohort Spreadsheet
 
 ## Goal
