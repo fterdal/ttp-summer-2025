@@ -12,22 +12,23 @@ Here are a few things to keep in mind throughout this program:
 
 Let's do this 🚀
 
-## Week 1: Introductions & Orientation
+## Week 0: Introductions & Orientation
 
-June 2 - June 6
+June 2 - June 13
 
-## Week 2: Foundation
+## Week 1: Foundation
 
-June 9 - June 13
+June 16 - June 20
+</br>
+Off June 19 - JUNETEENTH
 
 | Topic                        | Lecture | Slides                     | Demo |
 | ---------------------------- | ------- | -------------------------- | ---- |
 | Course Layout                | -       | [🖼️][course-layout-slides] | -    |
 | Collaborative Workflow (Git) | -       | -                          | -    |
 | Introduction to JavaScript   | -       | -                          | -    |
-| DOM Manipulation             | -       | -                          | -    |
-| Introduction to React        | -       | -                          | -    |
-| External API Requests        | -       | -                          | -    |
+| DOM I                        | -       | -                          | -    |
+| DOM II                       | -       | -                          | -    |
 
 [//]: # " Paste in table above >> [📺][collab-lec] "
 [collab-lec]: #link-to-lecture
@@ -35,47 +36,45 @@ June 9 - June 13
 [//]: # " Paste in table above >> [🖼️][collab-lec-slides] "
 [collab-lec-slides]: #link-to-slide-deck-here
 
-## Week 3: Single-Page Applications (SPAs)
-
-June 16 - June 20
-</br>
-Off June 19 - JUNETEENTH
-
-| Topic                      | Lecture | Slides | Demo |
-| -------------------------- | ------- | ------ | ---- |
-| React Router               | -       | -      | -    |
-| React Context/Redux        | -       | -      | -    |
-| Introduction to Node.js    | -       | -      | -    |
-| Introduction to Express.js | -       | -      | -    |
-
-## Week 4: Databases
+## Week 2: The Full Stack
 
 June 23 - June 27
 
-| Topic                       | Lecture | Slides | Demo |
-| --------------------------- | ------- | ------ | ---- |
-| PostgreSQL/Sequelize I      | -       | -      | -    |
-| PostgreSQL/Sequelize II     | -       | -      | -    |
-| Review Session + CRUD App I | -       | -      | -    |
-| CRUD App II                 | -       | -      | -    |
-| CRUD App III                | -       | -      | -    |
+| Topic                      | Lecture | Slides | Demo |
+| -------------------------- | ------- | ------ | ---- |
+| React I                    | -       | -      | -    |
+| API Requests               | -       | -      | -    |
+| React II                   | -       | -      | -    |
+| Node.js                    | -       | -      | -    |
+| Introduction to Express.js | -       | -      | -    |
+| PostgreSQL & Sequelize     | -       | -      | -    |
 
-## Week 5: Authentication and Deployment
+## Week 3: Testing & Review
 
 June 30 - July 4
 </br>
 Off July 4 - INDEPENDENCE DAY
 
+| Topic                       | Lecture | Slides | Demo |
+| --------------------------- | ------- | ------ | ---- |
+| Testing                     | -       | -      | -    |
+| Review Session + CRUD App I | -       | -      | -    |
+| CRUD App II                 | -       | -      | -    |
+| CRUD App III                | -       | -      | -    |
+
+## Week 4: Deployment & Security, Intro to Capstone I
+
+July 7 - July 11
+
 | Topic                                   | Lecture | Slides | Demo |
 | --------------------------------------- | ------- | ------ | ---- |
-| Testing                                 | -       | -      | -    |
 | Registered Users and Open Authorization | -       | -      | -    |
 | Security and Restrictions               | -       | -      | -    |
 | Deployment                              | -       | -      | -    |
 
 ## Capstone I
 
-July 7 - July 25
+July 14 - July 25
 
 ## Capstone II
 
