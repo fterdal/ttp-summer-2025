@@ -1,6 +1,6 @@
 # DOM Challenges I
 
-- **Due** June 12, 2025 by 10:00:00 AM EDT
+- **Due** June 20, 2025 by 10:00:00 AM EDT
 - **Submitting** Fill out all of the appropriate information in the Google Sheet
 
 ## Goal
