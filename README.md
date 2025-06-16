@@ -34,7 +34,7 @@ Off June 19 - JUNETEENTH
 [collab-lec]: #link-to-lecture
 [course-layout-slides]: ./slides/00%20-%20Introductions%20and%20Course%20Layout.pdf
 [//]: # " Paste in table above >> [🖼️][collab-lec-slides] "
-[collab-lec-slides]: https://github.com/user-attachments/files/20760708/02.-.Git.Workflows.GitHub.and.More.Git.2025.pdf
+[collab-lec-slides]: https://github.com/fterdal/ttp-summer-2025/blob/main/slides/02%20-%20Git%20Workflows%2C%20GitHub%2C%20and%20More%20Git%20(2025).pdf
 
 
 ## Week 2: The Full Stack
