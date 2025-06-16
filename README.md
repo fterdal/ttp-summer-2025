@@ -25,7 +25,7 @@ Off June 19 - JUNETEENTH
 | Topic                        | Lecture | Slides                     | Demo |
 | ---------------------------- | ------- | -------------------------- | ---- |
 | Course Layout                | -       | [🖼️][course-layout-slides] | -    |
-| Collaborative Workflow (Git) | -       | -                          | -    |
+| Collaborative Workflow (Git) | -       | [🖼️][collab-lec-slides]    | -    |
 | Introduction to JavaScript   | -       | -                          | -    |
 | DOM I                        | -       | -                          | -    |
 | DOM II                       | -       | -                          | -    |
@@ -34,7 +34,8 @@ Off June 19 - JUNETEENTH
 [collab-lec]: #link-to-lecture
 [course-layout-slides]: ./slides/00%20-%20Introductions%20and%20Course%20Layout.pdf
 [//]: # " Paste in table above >> [🖼️][collab-lec-slides] "
-[collab-lec-slides]: #link-to-slide-deck-here
+[collab-lec-slides]: [https://github.com/user-attachments/files/20760708/02.-.Git.Workflows.GitHub.and.More.Git.2025.pdf]
+
 
 ## Week 2: The Full Stack
 
