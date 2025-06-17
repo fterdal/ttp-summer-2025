@@ -22,35 +22,38 @@ June 16 - June 20
 </br>
 Off June 19 - JUNETEENTH
 
-| Topic                        | Lecture | Slides                     | Demo |
-| ---------------------------- | ------- | -------------------------- | ---- |
-| Course Layout                | -       | [🖼️][course-layout-slides] | -    |
-| Collaborative Workflow (Git) | -       | [🖼️][collab-lec-slides]    | -    |
-| Introduction to JavaScript   | -       | [🖼️][js-slides]                          | [💻][js-demo]    |
-| DOM I                        | -       | -                          | -    |
-| DOM II                       | -       | -                          | -    |
+| Topic                        | Assignment        | Lecture | Slides                     | Demo          |
+| ---------------------------- | ----------------- | ------- | -------------------------- | ------------- |
+| Course Layout                | -                 | -       | [🖼️][course-layout-slides] | -             |
+| Collaborative Workflow (Git) | [📝][collab-asst] | -       | [🖼️][collab-lec-slides]    | -             |
+| Introduction to JavaScript   | [📝][collab-asst] | -       | [🖼️][js-slides]            | [💻][js-demo] |
+| DOM I                        | -                 | -       | -                          | -             |
+| DOM II                       | -                 | -       | -                          | -             |
 
+[//]: # " Paste in table above >> [📝][collab-asst] "
+[collab-asst]: ./assignments/01-Git.md
+[js-asst]: ./assignments/02-JS.md
 [//]: # " Paste in table above >> [📺][collab-lec] "
 [collab-lec]: #link-to-lecture
 [course-layout-slides]: ./slides/00%20-%20Introductions%20and%20Course%20Layout.pdf
 [//]: # " Paste in table above >> [🖼️][collab-lec-slides] "
 [collab-lec-slides]: https://github.com/fterdal/ttp-summer-2025/blob/main/slides/02%20-%20Git%20Workflows%2C%20GitHub%2C%20and%20More%20Git%20(2025).pdf
-
 [js-slides]: ./slides/03%20-%20Javascript.pdf
+[//]: # " Paste in table above >> [💻][js-demo] "
 [js-demo]: https://github.com/fterdal/ttp-js-demo/blob/main/script.js
 
 ## Week 2: The Full Stack
 
 June 23 - June 27
 
-| Topic                      | Lecture | Slides | Demo |
-| -------------------------- | ------- | ------ | ---- |
-| React I                    | -       | -      | -    |
-| API Requests               | -       | -      | -    |
-| React II                   | -       | -      | -    |
-| Node.js                    | -       | -      | -    |
-| Introduction to Express.js | -       | -      | -    |
-| PostgreSQL & Sequelize     | -       | -      | -    |
+| Topic                      | Assignment | Lecture | Slides | Demo |
+| -------------------------- | ---------- | ------- | ------ | ---- |
+| React I                    | -          | -       | -      | -    |
+| API Requests               | -          | -       | -      | -    |
+| React II                   | -          | -       | -      | -    |
+| Node.js                    | -          | -       | -      | -    |
+| Introduction to Express.js | -          | -       | -      | -    |
+| PostgreSQL & Sequelize     | -          | -       | -      | -    |
 
 ## Week 3: Testing & Review
 
@@ -58,22 +61,22 @@ June 30 - July 4
 </br>
 Off July 4 - INDEPENDENCE DAY
 
-| Topic                       | Lecture | Slides | Demo |
-| --------------------------- | ------- | ------ | ---- |
-| Testing                     | -       | -      | -    |
-| Review Session + CRUD App I | -       | -      | -    |
-| CRUD App II                 | -       | -      | -    |
-| CRUD App III                | -       | -      | -    |
+| Topic                       | Assignment | Lecture | Slides | Demo |
+| --------------------------- | ---------- | ------- | ------ | ---- |
+| Testing                     | -          | -       | -      | -    |
+| Review Session + CRUD App I | -          | -       | -      | -    |
+| CRUD App II                 | -          | -       | -      | -    |
+| CRUD App III                | -          | -       | -      | -    |
 
 ## Week 4: Deployment & Security, Intro to Capstone I
 
 July 7 - July 11
 
-| Topic                                   | Lecture | Slides | Demo |
-| --------------------------------------- | ------- | ------ | ---- |
-| Registered Users and Open Authorization | -       | -      | -    |
-| Security and Restrictions               | -       | -      | -    |
-| Deployment                              | -       | -      | -    |
+| Topic                                   | Assignment | Lecture | Slides | Demo |
+| --------------------------------------- | ---------- | ------- | ------ | ---- |
+| Registered Users and Open Authorization | -          | -       | -      | -    |
+| Security and Restrictions               | -          | -       | -      | -    |
+| Deployment                              | -          | -       | -      | -    |
 
 ## Capstone I
 
