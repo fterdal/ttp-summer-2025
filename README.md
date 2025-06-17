@@ -26,7 +26,7 @@ Off June 19 - JUNETEENTH
 | ---------------------------- | ------- | -------------------------- | ---- |
 | Course Layout                | -       | [🖼️][course-layout-slides] | -    |
 | Collaborative Workflow (Git) | -       | [🖼️][collab-lec-slides]    | -    |
-| Introduction to JavaScript   | -       | -                          | -    |
+| Introduction to JavaScript   | -       | -                          | [💻][js-demo]    |
 | DOM I                        | -       | -                          | -    |
 | DOM II                       | -       | -                          | -    |
 
@@ -35,7 +35,7 @@ Off June 19 - JUNETEENTH
 [course-layout-slides]: ./slides/00%20-%20Introductions%20and%20Course%20Layout.pdf
 [//]: # " Paste in table above >> [🖼️][collab-lec-slides] "
 [collab-lec-slides]: https://github.com/fterdal/ttp-summer-2025/blob/main/slides/02%20-%20Git%20Workflows%2C%20GitHub%2C%20and%20More%20Git%20(2025).pdf
-
+[js-demo]: https://github.com/fterdal/ttp-js-demo/blob/main/script.js
 
 ## Week 2: The Full Stack
 
