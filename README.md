@@ -26,7 +26,7 @@ Off June 19 - JUNETEENTH
 | ---------------------------- | ----------------- | ------- | -------------------------- | ------------- |
 | Course Layout                | -                 | -       | [🖼️][course-layout-slides] | -             |
 | Collaborative Workflow (Git) | [📝][collab-asst] | -       | [🖼️][collab-lec-slides]    | -             |
-| Introduction to JavaScript   | [📝][collab-asst] | -       | [🖼️][js-slides]            | [💻][js-demo] |
+| Introduction to JavaScript   | [📝][js-asst]     | -       | [🖼️][js-slides]            | [💻][js-demo] |
 | DOM I                        | -                 | -       | -                          | -             |
 | DOM II                       | -                 | -       | -                          | -             |
 
