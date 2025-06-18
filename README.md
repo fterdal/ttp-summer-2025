@@ -42,9 +42,8 @@ Off June 19 - JUNETEENTH
 [//]: # " Paste in table above >> [💻][js-demo] "
 [js-demo]: https://github.com/fterdal/ttp-js-demo/blob/main/script.js
 
-
 [dom1-asst]: ./assignments/03-DOM.md
-[dom1-slides]: # "temp"
+[dom1-slides]: ./slides/05-%20DOM%20I.pdf
 
 ## Week 2: The Full Stack
 
