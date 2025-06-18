@@ -38,3 +38,15 @@ Write the code necessary to do the following:
 - [ ] Append the li to the ul element.
 - [ ] Loop over all of the lis inside the ol tag and give them a background color of "green".
 - [ ] Remove the div with a class of footer.
+
+## BONUS
+
+If you finish the above tasks early and want an extra challenge, do the following:
+
+1. In the starting point repo, you'll find a bonus.html and bonus-script.js
+2. The bonus.html only contains a div with an id of root
+3. Note that when you view bonus.html in the browser, you see an h1 tag! This is because the bonus-script.js is adding that h1 tag _after the page loads_.
+
+Your mission, should you choose to accept it, is to create an entire web page using only that bonus-script.js file. Add new elements, style them, add content. The website can be about anything you like. Make it look pretty ✨💅
+
+As you'll see in bonus-script.js, `document.createElement()` and `document.appendChild()` are your best friends.
