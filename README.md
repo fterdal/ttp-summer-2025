@@ -27,7 +27,7 @@ Off June 19 - JUNETEENTH
 | Course Layout                | -                 | -       | [🖼️][course-layout-slides] | -             |
 | Collaborative Workflow (Git) | [📝][collab-asst] | -       | [🖼️][collab-lec-slides]    | -             |
 | Introduction to JavaScript   | [📝][js-asst]     | -       | [🖼️][js-slides]            | [💻][js-demo] |
-| DOM I                        | -                 | -       | -                          | -             |
+| DOM I                        | [📝][dom1-asst]   | -       | -                          | -             |
 | DOM II                       | -                 | -       | -                          | -             |
 
 [//]: # " Paste in table above >> [📝][collab-asst] "
@@ -41,6 +41,10 @@ Off June 19 - JUNETEENTH
 [js-slides]: ./slides/03%20-%20Javascript.pdf
 [//]: # " Paste in table above >> [💻][js-demo] "
 [js-demo]: https://github.com/fterdal/ttp-js-demo/blob/main/script.js
+
+
+[dom1-asst]: ./assignments/03-DOM.md
+[dom1-slides]: # "temp"
 
 ## Week 2: The Full Stack
 
