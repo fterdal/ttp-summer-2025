@@ -28,7 +28,7 @@ Off June 19 - JUNETEENTH
 | Collaborative Workflow (Git) | [📝][collab-asst] | -       | [🖼️][collab-lec-slides]    | -             |
 | Introduction to JavaScript   | [📝][js-asst]     | -       | [🖼️][js-slides]            | [💻][js-demo] |
 | DOM I                        | [📝][dom1-asst]   | -       | [🖼️][dom1-slides]          | -             |
-| DOM II                       | [📝][dom2-asst]                 |    -    |   [🖼️][dom2-slides]                          | -             |
+| DOM II                       | [📝][dom2-asst]                 |    -    |   [🖼️][dom2-slides]                          | [💻][dom2-demo]             |
 
 [//]: # " Paste in table above >> [📝][collab-asst] "
 [collab-asst]: ./assignments/01-Git.md
@@ -47,6 +47,7 @@ Off June 19 - JUNETEENTH
 
 [dom2-asst]: ./assignments/04-DOM2.md
 [dom2-slides]: ./slides/06-%20DOM%20II.pdf
+[dom2-demo]: https://github.com/fterdal/DOM-2-StartingPoint/tree/main/demo
 
 ## Week 2: The Full Stack
 
