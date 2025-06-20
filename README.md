@@ -28,7 +28,7 @@ Off June 19 - JUNETEENTH
 | Collaborative Workflow (Git) | [📝][collab-asst] | -       | [🖼️][collab-lec-slides]    | -             |
 | Introduction to JavaScript   | [📝][js-asst]     | -       | [🖼️][js-slides]            | [💻][js-demo] |
 | DOM I                        | [📝][dom1-asst]   | -       | [🖼️][dom1-slides]          | -             |
-| DOM II                       | [📝][dom2-asst]                 | [🖼️][dom2-slides]       | -                          | -             |
+| DOM II                       | [📝][dom2-asst]                 |    -    |   [🖼️][dom2-slides]                          | -             |
 
 [//]: # " Paste in table above >> [📝][collab-asst] "
 [collab-asst]: ./assignments/01-Git.md
