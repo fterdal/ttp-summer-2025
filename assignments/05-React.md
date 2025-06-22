@@ -11,11 +11,11 @@ This is another exercise to deepen your understanding of HTML, CSS, JS, DOM mani
 
 This assignment has a Starting Point repo, which can be found [HERE](https://github.com/fterdal/React-Mini-StartingPoint). One person in your group should fork this repository and add the other members of the group as collaborators. Each member of the group should take an active role in committing and pushing to this forked repository.
 
-You'll be re-doing part of the functionality of the DOM Challenges III (grid/row/column/color) assignment, but with React this time around. Instead of directly using the DOM API, you'll be managing state (hint: the currently selected color and the grid), writing methods within React components instead of standalone functions, and passing down event handlers to be fired off in the children components that have event listeners on them. The MVP (minimum viable product) features can be achieved with four components: App.jsx, Table.jsx, TableCell.jsx, TableRow.jsx.
+You'll be re-doing part of the functionality of the DOM Challenges II (grid/row/column/color) assignment, but with React this time around. Instead of directly using the DOM API, you'll be managing state (hint: the currently selected color and the grid), writing methods within React components instead of standalone functions, and passing down event handlers to be fired off in the children components that have event listeners on them. The MVP (minimum viable product) features can be achieved with four components: App.jsx, Table.jsx, TableCell.jsx, TableRow.jsx.
 
 The MVP features are: a user can add a row, a user can add a column, and a user can select a color to change a single cell via click. As a user, I can add a row, add a column, select a color from a dropdown menu of colors, and click on individual cells to color in the cell.
 
-Stretch and optional features will be: recreating the entirety (clear the grid, fill the grid, fill uncolored cells, etc) of DOM Challenges III, but in React.
+Stretch and optional features will be: recreating the entirety (clear the grid, fill the grid, fill uncolored cells, etc) of DOM Challenges II, but in React.
 
 **Use this time to also do two things:**
 
