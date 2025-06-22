@@ -43,7 +43,7 @@ import Table from ./components/table
 ```
 
 - app.jsx could maintain the state of the grid as well as the state of the selected color
-- app.jsx could have methods (e.g. addRow, setColor) on the component which will be passed down to children components via props (the children components, will have event listeners that fire off the event handler functions
+- app.jsx could have methods (e.g. addRow, setColor) on the component which will be passed down to children components via props (the children components will have event listeners that fire off the event handler functions
 - app.jsx could render the dropdown menu as well as the Table Component
 - Table.jsx could be the parent of TableRow.jsx
 - TableRow.jsx could be the parent of TableCell.jsx
