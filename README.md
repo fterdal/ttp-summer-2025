@@ -65,6 +65,8 @@ June 23 - June 27
 | Introduction to Express.js | -                 | -                | -                   | -    |
 | PostgreSQL & Sequelize     | -                 | -                | -                   | -    |
 
+[👀 Tips on Deploying React To GitHub Pages](https://gist.github.com/fterdal/8dcc928cd5e4ede8d697295710ddc581)
+
 [react1-lec]: https://youtu.be/4dF1UgZ7P3Q
 [react1-asst]: ./assignments/05-React.md
 [react1-slides]: ./slides/07-React-1.pdf
