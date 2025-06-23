@@ -22,13 +22,13 @@ June 16 - June 20
 </br>
 Off June 19 - JUNETEENTH
 
-| Topic                        | Assignment        | Lecture | Slides                     | Demo            |
-| ---------------------------- | ----------------- | ------- | -------------------------- | --------------- |
-| Course Layout                | -                 | -       | [🖼️][course-layout-slides] | -               |
-| Collaborative Workflow (Git) | [📝][collab-asst] | -       | [🖼️][collab-lec-slides]    | -               |
-| Introduction to JavaScript   | [📝][js-asst]     | -       | [🖼️][js-slides]            | [💻][js-demo]   |
-| DOM I                        | [📝][dom1-asst]   | -       | [🖼️][dom1-slides]          | -               |
-| DOM II                       | [📝][dom2-asst]   | [📺][dom2-lec]       | [🖼️][dom2-slides]          | [💻][dom2-demo] |
+| Topic                        | Assignment        | Lecture        | Slides                     | Demo            |
+| ---------------------------- | ----------------- | -------------- | -------------------------- | --------------- |
+| Course Layout                | -                 | -              | [🖼️][course-layout-slides] | -               |
+| Collaborative Workflow (Git) | [📝][collab-asst] | -              | [🖼️][collab-lec-slides]    | -               |
+| Introduction to JavaScript   | [📝][js-asst]     | -              | [🖼️][js-slides]            | [💻][js-demo]   |
+| DOM I                        | [📝][dom1-asst]   | -              | [🖼️][dom1-slides]          | -               |
+| DOM II                       | [📝][dom2-asst]   | [📺][dom2-lec] | [🖼️][dom2-slides]          | [💻][dom2-demo] |
 
 [//]: # " Paste in table above >> [📝][collab-asst] "
 [collab-asst]: ./assignments/01-Git.md
@@ -43,7 +43,6 @@ Off June 19 - JUNETEENTH
 [js-demo]: https://github.com/fterdal/ttp-js-demo/blob/main/script.js
 [dom1-asst]: ./assignments/03-DOM.md
 [dom1-slides]: ./slides/05-%20DOM%20I.pdf
-
 [dom2-lec]: https://youtu.be/ij_Lpuun3gM
 [dom2-asst]: ./assignments/04-DOM2.md
 [dom2-slides]: ./slides/06-%20DOM%20II.pdf
@@ -53,14 +52,14 @@ Off June 19 - JUNETEENTH
 
 June 23 - June 27
 
-| Topic                      | Assignment | Lecture | Slides | Demo |
-| -------------------------- | ---------- | ------- | ------ | ---- |
-| React I                    | [📝][react1-asst]          | [📺][react1-lec]       | [🖼️][react1-slides]      | -    |
-| API Requests               | -          | -       | -      | -    |
-| React II                   | -          | -       | -      | -    |
-| Node.js                    | -          | -       | -      | -    |
-| Introduction to Express.js | -          | -       | -      | -    |
-| PostgreSQL & Sequelize     | -          | -       | -      | -    |
+| Topic                      | Assignment        | Lecture          | Slides              | Demo |
+| -------------------------- | ----------------- | ---------------- | ------------------- | ---- |
+| React I                    | [📝][react1-asst] | [📺][react1-lec] | [🖼️][react1-slides] | -    |
+| API Requests               | -                 | -                | -                   | -    |
+| React II                   | -                 | -                | -                   | -    |
+| Node.js                    | -                 | -                | -                   | -    |
+| Introduction to Express.js | -                 | -                | -                   | -    |
+| PostgreSQL & Sequelize     | -                 | -                | -                   | -    |
 
 [react1-lec]: https://youtu.be/4dF1UgZ7P3Q
 [react1-asst]: ./assignments/05-React.md
