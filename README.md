@@ -53,15 +53,17 @@ June 23 - June 27
 
 | Topic                      | Assignment | Lecture | Slides | Demo |
 | -------------------------- | ---------- | ------- | ------ | ---- |
-| React I                    | [📝][react1-asst]          | -       | [🖼️][react1-slides]      | -    |
+| React I                    | [📝][react1-asst]          | [📺][react1-lec]       | [🖼️][react1-slides]      | -    |
 | API Requests               | -          | -       | -      | -    |
 | React II                   | -          | -       | -      | -    |
 | Node.js                    | -          | -       | -      | -    |
 | Introduction to Express.js | -          | -       | -      | -    |
 | PostgreSQL & Sequelize     | -          | -       | -      | -    |
 
- [react1-asst]: ./assignments/05-React.md
- [react1-slides]: ./slides/07-React-1.pdf
+[react1-lec]: ./assignments/05-React.md
+[react1-asst]: https://youtu.be/4dF1UgZ7P3Q
+
+[react1-slides]: ./slides/07-React-1.pdf
 
 ## Week 3: Testing & Review
 
