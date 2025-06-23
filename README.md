@@ -25,7 +25,7 @@ Off June 19 - JUNETEENTH
 | Topic                        | Assignment        | Lecture                                   | Slides                     | Demo            |
 | ---------------------------- | ----------------- | ----------------------------------------- | -------------------------- | --------------- |
 | Course Layout                | -                 | -                                         | [🖼️][course-layout-slides] | -               |
-| Collaborative Workflow (Git) | [📝][collab-asst] | -                                         | [🖼️][collab-lec-slides]    | -               |
+| Collaborative Workflow (Git) | [📝][collab-asst] | [📺][collab-lec]                          | [🖼️][collab-lec-slides]    | -               |
 | Introduction to JavaScript   | [📝][js-asst]     | [📺 (1/2)][js-lec-1] [📺 (2/2)][js-lec-2] | [🖼️][js-slides]            | [💻][js-demo]   |
 | DOM I                        | [📝][dom1-asst]   | [📺][dom1-lec]                            | [🖼️][dom1-slides]          | -               |
 | DOM II                       | [📝][dom2-asst]   | [📺][dom2-lec]                            | [🖼️][dom2-slides]          | [💻][dom2-demo] |
@@ -34,7 +34,7 @@ Off June 19 - JUNETEENTH
 [collab-asst]: ./assignments/01-Git.md
 [js-asst]: ./assignments/02-JS.md
 [//]: # " Paste in table above >> [📺][collab-lec] "
-[collab-lec]: #link-to-lecture
+[collab-lec]: https://youtu.be/dET2dHExStc
 [course-layout-slides]: ./slides/00%20-%20Introductions%20and%20Course%20Layout.pdf
 [//]: # " Paste in table above >> [🖼️][collab-lec-slides] "
 [collab-lec-slides]: https://github.com/fterdal/ttp-summer-2025/blob/main/slides/02%20-%20Git%20Workflows%2C%20GitHub%2C%20and%20More%20Git%20(2025).pdf
