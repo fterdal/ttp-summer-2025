@@ -56,14 +56,14 @@ Off June 19 - JUNETEENTH
 
 June 23 - June 27
 
-| Topic                      | Assignment        | Lecture          | Slides              | Demo |
-| -------------------------- | ----------------- | ---------------- | ------------------- | ---- |
-| React I                    | [📝][react1-asst] | [📺][react1-lec] | [🖼️][react1-slides] | -    |
-| API Requests               | [📝][api-asst]    | -                | [🖼️][api-slides]    | -    |
-| React II                   | -                 | -                | -                   | -    |
-| Node.js                    | -                 | -                | -                   | -    |
-| Introduction to Express.js | -                 | -                | -                   | -    |
-| PostgreSQL & Sequelize     | -                 | -                | -                   | -    |
+| Topic                      | Assignment        | Lecture          | Slides              | Demo           |
+| -------------------------- | ----------------- | ---------------- | ------------------- | -------------- |
+| React I                    | [📝][react1-asst] | [📺][react1-lec] | [🖼️][react1-slides] | -              |
+| API Requests               | [📝][api-asst]    | -                | [🖼️][api-slides]    | [💻][api-demo] |
+| React II                   | -                 | -                | -                   | -              |
+| Node.js                    | -                 | -                | -                   | -              |
+| Introduction to Express.js | -                 | -                | -                   | -              |
+| PostgreSQL & Sequelize     | -                 | -                | -                   | -              |
 
 [👀 Tips on Deploying React To GitHub Pages](https://gist.github.com/fterdal/8dcc928cd5e4ede8d697295710ddc581)
 
@@ -72,6 +72,7 @@ June 23 - June 27
 [react1-slides]: ./slides/07-React-1.pdf
 [api-asst]: ./assignments/06-APIRequests.md
 [api-slides]: ./slides/08-api-requests.pdf
+[api-demo]: https://github.com/fterdal/React-APIRequests/blob/finn-demo/src/TodoList.jsx
 
 ## Week 3: Testing & Review
 
