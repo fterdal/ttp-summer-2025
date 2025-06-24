@@ -86,7 +86,9 @@ Off July 4 - INDEPENDENCE DAY
 | Testing                     | -          | -       | -      | -    |
 | Review Session + CRUD App I | -          | -       | -      | -    |
 | CRUD App II                 | -          | -       | -      | -    |
-| CRUD App III                | -          | -       | -      | -    |
+| Deployment & CRUD App III                | -          | -       | -      | -    |
+
+CRUD: July 1st @ 10:00 AM EST - July 6th @ 11:59:59PM ET
 
 ## Week 4: Deployment & Security, Intro to Capstone I
 
@@ -97,6 +99,7 @@ July 7 - July 11
 | Registered Users and Open Authorization | -          | -       | -      | -    |
 | Security and Restrictions               | -          | -       | -      | -    |
 | Deployment                              | -          | -       | -      | -    |
+| Intro to Capstone (July 10, 11)                              | -          | -       | -      | -    |
 
 ## Capstone I
 
