@@ -59,7 +59,7 @@ June 23 - June 27
 | Topic                      | Assignment        | Lecture          | Slides              | Demo |
 | -------------------------- | ----------------- | ---------------- | ------------------- | ---- |
 | React I                    | [📝][react1-asst] | [📺][react1-lec] | [🖼️][react1-slides] | -    |
-| API Requests               | [📝][api-asst]    | -                | -                   | -    |
+| API Requests               | [📝][api-asst]    | -                | [🖼️][api-slides]    | -    |
 | React II                   | -                 | -                | -                   | -    |
 | Node.js                    | -                 | -                | -                   | -    |
 | Introduction to Express.js | -                 | -                | -                   | -    |
@@ -71,6 +71,7 @@ June 23 - June 27
 [react1-asst]: ./assignments/05-React.md
 [react1-slides]: ./slides/07-React-1.pdf
 [api-asst]: ./assignments/06-APIRequests.md
+[api-slides]: ./slides/08-api-requests.pdf
 
 ## Week 3: Testing & Review
 
