@@ -9,6 +9,8 @@ For this group assignment, you will create a simple web application that does th
 - [ ] Fetch a list of results from the [GIPHY API](https://developers.giphy.com/docs/#technical-documentation)
 - [ ] Allow the user to sort and filter based on as many parameters you'd like
 
+This assignment has a starting point repo, which can be found [HERE](https://github.com/fterdal/React-APIRequests). You know the drill by now.
+
 ## Requirements
 
 - When App mounts, load trending gifs
