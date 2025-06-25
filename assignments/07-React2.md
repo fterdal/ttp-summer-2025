@@ -78,12 +78,12 @@ As a user, I can:
 - [ ] **visit /books to see a list of the books**
 - [ ] **visit /books/1 to see a single book**
 - [ ] **visit /books/new to see a CreateBook form**
-- [ ] **there's a navbar at the top with links to home, booklist, and new book**
-- [ ] **the application is deployed on Vercel**
-- [ ] **each book has these fields: title (required), author (required), blurb, rating (0-5)**
+- [ ] **use a navbar at the top with links to home, booklist, and new book**
+- [ ] **view the application deployed on Vercel**
+- [ ] **see that each book has these fields: title (required), author (required), blurb, rating (0-5)**
 - [ ] **see validation errors on the CreateBook form**
 - [ ] **submit the CreateBook form and be redirected to /books**
-- [ ] **submitting the CreateBook form creates a new book**
+- [ ] **submit the CreateBook form which creates a new book**
 
 </br>
 
