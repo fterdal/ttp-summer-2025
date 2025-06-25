@@ -11,7 +11,7 @@ This is another exercise to deepen your understanding of React. We'll be explori
 
 This assignment has a Starting Point repo, which can be found [HERE](https://github.com/fterdal/React-2-Forms). One person in your group should fork this repository and add the other members of the group as collaborators. Each member of the group should take an active role in committing and pushing to this forked repository.
 
-You'll be implementing a book reviewing app, similar to Goodreads or StoryGraph. The basic functionality will include creating a new book, and viewing a list of the books that have been created, all on the same page.
+You'll be implementing a book reviewing app, similar to Goodreads or StoryGraph. The basic functionality will include creating a new book, and viewing a list of the books that have been created, all on the same page. Optionally, you may want to add a search bar, to filter the book list in various ways.
 
 Each book should have the following fields:
 
@@ -35,12 +35,13 @@ If they successfully submit the NewBook form, they should see their new book app
 
 ## More Direction/Suggestions
 
-The starting point has a few blank components already present: AddBook, BookCard, BookList. You don't have to use these components, but you should start thinking about how you want to break your
-project out into components.
+The starting point has a few blank components already: AddBook, BookCard, BookList. You don't have to use these components, but you should at least think about how you want to break your project up into components.
 
 Consider where you want to keep the books state. You'll need to update the books state from AddBook. And BookList will need to receive any changes to the books state.
 
 If you want to test out your book list component before you're finished with the AddBook, consider adding in some dummy data.
+
+There are a lot of fields on each book. Start small, make a form that only takes in title, and make sure that it works. Then start adding in additional fields to ramp up complexity.
 
 **The above are merely suggestions. Follow your intuitions and feel free to experiment.**
 
