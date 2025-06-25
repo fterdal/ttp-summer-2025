@@ -61,7 +61,6 @@ June 23 - June 27
 | React I                    | [📝][react1-asst] | [📺][react1-lec] | [🖼️][react1-slides] | -              |
 | API Requests               | [📝][api-asst]    | [📺][api-lec]    | [🖼️][api-slides]    | [💻][api-demo] |
 | React II                   | -                 | -                | -                   | -              |
-| Node.js                    | -                 | -                | -                   | -              |
 | Introduction to Express.js | -                 | -                | -                   | -              |
 | PostgreSQL & Sequelize     | -                 | -                | -                   | -              |
 
