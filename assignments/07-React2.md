@@ -77,21 +77,14 @@ As a user, I can:
 - [ ] **visit /books to see a list of the books**
 - [ ] **visit /books/1 to see a single book**
 - [ ] **visit /books/new to see a CreateBook form**
+- [ ] **there's a navbar at the top with links to home, booklist, and new book**
+- [ ] **the application is deployed on Vercel**
 - [ ] **each book has these fields: title (required), author (required), blurb, rating (0-5)**
 - [ ] **see validation errors on the CreateBook form**
 - [ ] **submit the CreateBook form and be redirected to /books**
 - [ ] **submitting the CreateBook form creates a new book**
-- [ ] **the application is deployed on Vercel**
 
+- [ ] implement a search feature on the book list page
 - [ ] on the book details page, see a list of reviews
 - [ ] on the book details page, there's a form you can fill out that adds a new review
 - [ ] instead of entering the rating for a book manually, the book's rating is calculated as the average of all review ratings
-- [ ]
-
-- [ ] remove columns from the grid
-- [ ] **select a color from a dropdown menu of colors**
-- [ ] **click on a single cell, changing its color to the currently selected color**
-- [ ] fill all uncolored cells with the currently selected color
-- [ ] fill all cells with the currently selected color
-- [ ] clear all cells/restore all cells to their original/initial color
-- [ ] click and hold (mouseover) from a single cell (start) to a different cell (end) such that all affected/hovered-over cells from start to end change to the currently selected color
