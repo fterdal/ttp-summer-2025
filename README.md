@@ -60,7 +60,7 @@ June 23 - June 27
 | -------------------------- | ----------------- | ---------------- | ------------------- | ----------------- |
 | React I                    | [📝][react1-asst] | [📺][react1-lec] | [🖼️][react1-slides] | -                 |
 | API Requests               | [📝][api-asst]    | [📺][api-lec]    | [🖼️][api-slides]    | [💻][api-demo]    |
-| React II                   | [📝][react2-asst] | -                | [🖼️][react2-slides] | [💻][react2-demo] |
+| React II                   | [📝][react2-asst] | [📺][react2-lec] | [🖼️][react2-slides] | [💻][react2-demo] |
 | Introduction to Express.js | -                 | -                | -                   | -                 |
 | PostgreSQL & Sequelize     | -                 | -                | -                   | -                 |
 
@@ -76,6 +76,7 @@ June 23 - June 27
 [react2-asst]: ./assignments/07-React2.md
 [react2-slides]: ./slides/09-React-2.pdf
 [react2-demo]: https://github.com/fterdal/React-2-Forms/blob/finn-code-demo/src/components/AddBook.jsx
+[react2-lec]: https://youtu.be/Yzl6cLNhHuI
 
 ## Week 3: Testing & Review
 
