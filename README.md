@@ -60,7 +60,7 @@ June 23 - June 27
 | -------------------------- | ----------------- | ---------------- | ------------------- | -------------- |
 | React I                    | [📝][react1-asst] | [📺][react1-lec] | [🖼️][react1-slides] | -              |
 | API Requests               | [📝][api-asst]    | [📺][api-lec]    | [🖼️][api-slides]    | [💻][api-demo] |
-| React II                   | [📝][react2-asst] | -                | -                   | -              |
+| React II                   | [📝][react2-asst] | -                | [🖼️][react2-slides] | -              |
 | Introduction to Express.js | -                 | -                | -                   | -              |
 | PostgreSQL & Sequelize     | -                 | -                | -                   | -              |
 
@@ -74,6 +74,7 @@ June 23 - June 27
 [api-slides]: ./slides/08-api-requests.pdf
 [api-demo]: https://github.com/fterdal/React-APIRequests/blob/finn-demo/src/TodoList.jsx
 [react2-asst]: ./assignments/07-React2.md
+[react2-slides]: ./slides/09-React-2.pdf
 
 ## Week 3: Testing & Review
 
