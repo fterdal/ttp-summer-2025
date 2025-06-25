@@ -84,6 +84,9 @@ As a user, I can:
 - [ ] **submit the CreateBook form and be redirected to /books**
 - [ ] **submitting the CreateBook form creates a new book**
 
+</br>
+### BONUS
+
 - [ ] implement a search feature on the book list page
 - [ ] on the book details page, see a list of reviews
 - [ ] on the book details page, there's a form you can fill out that adds a new review
