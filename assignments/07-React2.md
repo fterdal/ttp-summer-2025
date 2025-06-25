@@ -89,6 +89,7 @@ As a user, I can:
 
 ### BONUS
 
+- [ ] implement a "clear" button on the new book form that wipes it clean
 - [ ] implement a search feature on the book list page
 - [ ] on the book details page, see a list of reviews
 - [ ] on the book details page, there's a form you can fill out that adds a new review
