@@ -60,7 +60,7 @@ June 23 - June 27
 | -------------------------- | ----------------- | ---------------- | ------------------- | -------------- |
 | React I                    | [📝][react1-asst] | [📺][react1-lec] | [🖼️][react1-slides] | -              |
 | API Requests               | [📝][api-asst]    | [📺][api-lec]    | [🖼️][api-slides]    | [💻][api-demo] |
-| React II                   | -                 | -                | -                   | -              |
+| React II                   | [📝][react2-asst] | -                | -                   | -              |
 | Introduction to Express.js | -                 | -                | -                   | -              |
 | PostgreSQL & Sequelize     | -                 | -                | -                   | -              |
 
@@ -73,6 +73,7 @@ June 23 - June 27
 [api-lec]: https://youtu.be/Kk9t_aC6s2g
 [api-slides]: ./slides/08-api-requests.pdf
 [api-demo]: https://github.com/fterdal/React-APIRequests/blob/finn-demo/src/TodoList.jsx
+[react2-asst]: ./assignments/07-React2.md
 
 ## Week 3: Testing & Review
 
@@ -85,7 +86,7 @@ Off July 4 - INDEPENDENCE DAY
 | Testing                     | -          | -       | -      | -    |
 | Review Session + CRUD App I | -          | -       | -      | -    |
 | CRUD App II                 | -          | -       | -      | -    |
-| Deployment & CRUD App III                | -          | -       | -      | -    |
+| Deployment & CRUD App III   | -          | -       | -      | -    |
 
 CRUD: July 1st @ 10:00 AM EST - July 6th @ 11:59:59PM ET
 
@@ -98,7 +99,7 @@ July 7 - July 11
 | Registered Users and Open Authorization | -          | -       | -      | -    |
 | Security and Restrictions               | -          | -       | -      | -    |
 | Deployment                              | -          | -       | -      | -    |
-| Intro to Capstone (July 10, 11)                              | -          | -       | -      | -    |
+| Intro to Capstone (July 10, 11)         | -          | -       | -      | -    |
 
 ## Capstone I
 
