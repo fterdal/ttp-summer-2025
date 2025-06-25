@@ -71,7 +71,8 @@ const [books, setBooks] = useState(dummyBooks)
 
 ## Assignment
 
-Complete the following user stories (bold denotes an MVP/mandatory feature, whereas italics denotes a stretch/optional feature):
+Complete the following user stories.
+
 As a user, I can:
 
 - [ ] **visit /books to see a list of the books**
