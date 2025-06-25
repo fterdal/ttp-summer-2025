@@ -56,13 +56,13 @@ Off June 19 - JUNETEENTH
 
 June 23 - June 27
 
-| Topic                      | Assignment        | Lecture          | Slides              | Demo           |
-| -------------------------- | ----------------- | ---------------- | ------------------- | -------------- |
-| React I                    | [📝][react1-asst] | [📺][react1-lec] | [🖼️][react1-slides] | -              |
-| API Requests               | [📝][api-asst]    | [📺][api-lec]    | [🖼️][api-slides]    | [💻][api-demo] |
-| React II                   | [📝][react2-asst] | -                | [🖼️][react2-slides] | -              |
-| Introduction to Express.js | -                 | -                | -                   | -              |
-| PostgreSQL & Sequelize     | -                 | -                | -                   | -              |
+| Topic                      | Assignment        | Lecture          | Slides              | Demo              |
+| -------------------------- | ----------------- | ---------------- | ------------------- | ----------------- |
+| React I                    | [📝][react1-asst] | [📺][react1-lec] | [🖼️][react1-slides] | -                 |
+| API Requests               | [📝][api-asst]    | [📺][api-lec]    | [🖼️][api-slides]    | [💻][api-demo]    |
+| React II                   | [📝][react2-asst] | -                | [🖼️][react2-slides] | [💻][react2-demo] |
+| Introduction to Express.js | -                 | -                | -                   | -                 |
+| PostgreSQL & Sequelize     | -                 | -                | -                   | -                 |
 
 [👀 Tips on Deploying React To GitHub Pages](https://gist.github.com/fterdal/8dcc928cd5e4ede8d697295710ddc581)
 
@@ -75,6 +75,7 @@ June 23 - June 27
 [api-demo]: https://github.com/fterdal/React-APIRequests/blob/finn-demo/src/TodoList.jsx
 [react2-asst]: ./assignments/07-React2.md
 [react2-slides]: ./slides/09-React-2.pdf
+[react2-demo]: https://github.com/fterdal/React-2-Forms/blob/finn-code-demo/src/components/AddBook.jsx
 
 ## Week 3: Testing & Review
 
