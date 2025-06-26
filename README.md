@@ -56,13 +56,13 @@ Off June 19 - JUNETEENTH
 
 June 23 - June 27
 
-| Topic                      | Assignment        | Lecture          | Slides              | Demo              |
-| -------------------------- | ----------------- | ---------------- | ------------------- | ----------------- |
-| React I                    | [📝][react1-asst] | [📺][react1-lec] | [🖼️][react1-slides] | -                 |
-| API Requests               | [📝][api-asst]    | [📺][api-lec]    | [🖼️][api-slides]    | [💻][api-demo]    |
-| React II                   | [📝][react2-asst] | [📺][react2-lec] | [🖼️][react2-slides] | [💻][react2-demo] |
-| Introduction to Express.js | -                 | -                | -                   | -                 |
-| PostgreSQL & Sequelize     | -                 | -                | -                   | -                 |
+| Topic                      | Assignment         | Lecture          | Slides               | Demo               |
+| -------------------------- | ------------------ | ---------------- | -------------------- | ------------------ |
+| React I                    | [📝][react1-asst]  | [📺][react1-lec] | [🖼️][react1-slides]  | -                  |
+| API Requests               | [📝][api-asst]     | [📺][api-lec]    | [🖼️][api-slides]     | [💻][api-demo]     |
+| React II                   | [📝][react2-asst]  | [📺][react2-lec] | [🖼️][react2-slides]  | [💻][react2-demo]  |
+| Introduction to Express.js | [📝][express-asst] | -                | [🖼️][express-slides] | [💻][express-demo] |
+| PostgreSQL & Sequelize     | -                  | -                | -                    | -                  |
 
 [👀 Tips on Deploying React To GitHub Pages](https://gist.github.com/fterdal/8dcc928cd5e4ede8d697295710ddc581)
 
@@ -77,6 +77,9 @@ June 23 - June 27
 [react2-slides]: ./slides/09-React-2.pdf
 [react2-demo]: https://github.com/fterdal/React-2-Forms/blob/finn-code-demo/src/components/AddBook.jsx
 [react2-lec]: https://youtu.be/Yzl6cLNhHuI
+[express-asst]: ./assignments/08-Express.md
+[express-slides]: ./slides/10-Express.pdf
+[express-demo]: https://github.com/fterdal/ttp-express-code-demo/blob/main/app.js
 
 ## Week 3: Testing & Review
 
