@@ -65,6 +65,7 @@ June 23 - June 27
 | PostgreSQL & Sequelize     | -                  | -                 | -                    | -                  |
 
 [👀 Tips on Deploying React To GitHub Pages](https://gist.github.com/fterdal/8dcc928cd5e4ede8d697295710ddc581)
+[📺 Video about Deploying Express to Vercel](https://youtu.be/wU18h51hTCk)
 
 [react1-lec]: https://youtu.be/4dF1UgZ7P3Q
 [react1-asst]: ./assignments/05-React.md
@@ -79,6 +80,7 @@ June 23 - June 27
 [react2-lec]: https://youtu.be/Yzl6cLNhHuI
 [express-asst]: ./assignments/08-Express.md
 [express-lec]: https://youtu.be/Xf4MK0pDeFs
+[express-deployment]: https://youtu.be/wU18h51hTCk
 [express-slides]: ./slides/10-Express.pdf
 [express-demo]: https://github.com/fterdal/ttp-express-code-demo/blob/main/app.js
 
