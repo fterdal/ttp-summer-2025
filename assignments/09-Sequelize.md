@@ -11,11 +11,11 @@ Learn the basics of Sequelize, how to create a PostgreSQL schema, and connect it
 
 This assignment will be a continuation of the previous Express assignment. Instead of using a dummy database, you'll be using a real database!
 
-has TWO Starting Point repos, one for the [Backend (Express)](https://github.com/fterdal/Sequelize-Intro-StartingPoint), and another for the [Frontend (React)](https://github.com/fterdal/Express-Intro-Frontend).
+This assignment has TWO Starting Point repos, one for the [Backend (Express/Sequelize)](https://github.com/fterdal/Sequelize-Intro-StartingPoint), and another for the [Frontend (React)](https://github.com/fterdal/Express-Intro-Frontend).
 
 One person in your group should fork these repositories and add the other members of the group as collaborators to both of them. If you'd like to continue where you left off from the previous assignment, you're welcome to do so, though I recommend at least taking a look at the Sequelize Starting Point to see how the database connection is set up.
 
-You'll finish implementing the task management app you started previously. Last time, every time the server restarted, all the data was lost. Now, we'll introduce a database, which will allow us to persist that data.
+You'll finish implementing the task management app you started previously. Last time, whenever the server restarted, all the data was lost. Now, we'll introduce a database, which will allow us to persist that data.
 
 The existing frontend has functionality that uses the following routes:
 
@@ -40,7 +40,7 @@ Remember: Vercel will assign you a random (really long) public URL. If you want 
 
 ## More Direction/Suggestions
 
-The Sequelize starting point already has a structure set up for you, including a database connection file (`database/db.js`), and several files for defining your PostgreSQL tables and their relationships. There's also a seed file (`database/seed.js`), which you can run with `npm run seed`. As you build out the fields on your tables, you can re-run the seed file and confirm that the reslulting data looks as expected.
+The Sequelize starting point already has a structure set up for you, including a database connection file (`database/db.js`), and several files for defining your PostgreSQL tables and their relationships. There's also a seed file (`database/seed.js`), which you can run with `npm run seed`. As you build out the fields on your tables, you can re-run the seed file and confirm that the resulting data looks as expected.
 
 Again, use [Postman](https://www.postman.com/)! It's a great way to send custom data to your API endpoints. This is especially true if you plan to implement some advanced features that don't yet have any corresponding frontend functionality built yet.
 
@@ -65,3 +65,4 @@ Complete the following.
 - [ ] PATCH /api/users/:user_id/tasks/:task_id/assign assigns task with task_id to user with user_id
 - [ ] PATCH /api/users/:user_id/tasks/:task_id/unassign unassigns task with task_id from user with user_id
 - [ ] POST /api/tasks/bulk_complete accepts a request body with a list of task ids and marks them all complete
+- [ ] Start editing the frontend repo, and just go nuts with it. With a working backend, you are unstoppable
