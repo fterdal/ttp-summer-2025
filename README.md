@@ -56,13 +56,13 @@ Off June 19 - JUNETEENTH
 
 June 23 - June 27
 
-| Topic                      | Assignment         | Lecture           | Slides               | Demo               |
-| -------------------------- | ------------------ | ----------------- | -------------------- | ------------------ |
-| React I                    | [📝][react1-asst]  | [📺][react1-lec]  | [🖼️][react1-slides]  | -                  |
-| API Requests               | [📝][api-asst]     | [📺][api-lec]     | [🖼️][api-slides]     | [💻][api-demo]     |
-| React II                   | [📝][react2-asst]  | [📺][react2-lec]  | [🖼️][react2-slides]  | [💻][react2-demo]  |
-| Introduction to Express.js | [📝][express-asst] | [📺][express-lec] | [🖼️][express-slides] | [💻][express-demo] |
-| PostgreSQL & Sequelize     | -                  | -                 | -                    | -                  |
+| Topic                      | Assignment           | Lecture           | Slides                 | Demo                 |
+| -------------------------- | -------------------- | ----------------- | ---------------------- | -------------------- |
+| React I                    | [📝][react1-asst]    | [📺][react1-lec]  | [🖼️][react1-slides]    | -                    |
+| API Requests               | [📝][api-asst]       | [📺][api-lec]     | [🖼️][api-slides]       | [💻][api-demo]       |
+| React II                   | [📝][react2-asst]    | [📺][react2-lec]  | [🖼️][react2-slides]    | [💻][react2-demo]    |
+| Introduction to Express.js | [📝][express-asst]   | [📺][express-lec] | [🖼️][express-slides]   | [💻][express-demo]   |
+| PostgreSQL & Sequelize     | [📝][sequelize-asst] | -                 | [🖼️][sequelize-slides] | [💻][sequelize-demo] |
 
 [👀 Tips on Deploying React To GitHub Pages](https://gist.github.com/fterdal/8dcc928cd5e4ede8d697295710ddc581)
 </br>
@@ -84,6 +84,9 @@ June 23 - June 27
 [express-deployment]: https://youtu.be/wU18h51hTCk
 [express-slides]: ./slides/10-Express.pdf
 [express-demo]: https://github.com/fterdal/ttp-express-code-demo/blob/main/app.js
+[sequelize-asst]: ./assignments/09-Sequelize.md
+[sequelize-slides]: ./slides/11-Sequelize.pdf
+[sequelize-demo]: https://github.com/fterdal/ttp-express-code-demo/blob/sequelize-demo/database/duck.js
 
 ## Week 3: Testing & Review
 
