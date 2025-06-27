@@ -67,6 +67,8 @@ June 23 - June 27
 [👀 Tips on Deploying React To GitHub Pages](https://gist.github.com/fterdal/8dcc928cd5e4ede8d697295710ddc581)
 </br>
 [📺 Video about Deploying Express to Vercel](https://youtu.be/wU18h51hTCk)
+</br>
+[📺 Video about Deploying Express/PostgreSQL to Vercel/Neon](https://youtu.be/Ij3q4XERCcA)
 
 [react1-lec]: https://youtu.be/4dF1UgZ7P3Q
 [react1-asst]: ./assignments/05-React.md
