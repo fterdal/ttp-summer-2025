@@ -107,7 +107,7 @@ Off July 4 - INDEPENDENCE DAY
 [routing-asst]: ./assignments/10-ClientSideRouting.md
 [routing-slides]: ./slides/12-ClientSide-Routing.pdf
 [routing-lec]: https://youtu.be/1tCeZ-t2LN4
-[routing-demo]: https://github.com/fterdal/Routing-Demo
+[routing-demo]: https://github.com/fterdal/Routing-Demo/blob/main/src/app.jsx
 
 CRUD: July 1st @ 10:00 AM EST - July 6th @ 11:59:59PM ET
 
