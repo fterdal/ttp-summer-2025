@@ -8,7 +8,7 @@
 
 ## Direction
 
-This assignment will be a continuation of the previous React assignment. Last time, we had a simple todo front-end with a navbar at the top that didn't actually interact with the address bar. Today's task is to fix that, and make our application more usable with intuitive navigation options. You can even go further by
+This assignment will be a continuation of the previous React assignment. Last time, we had a simple todo front-end with a navbar at the top that didn't actually interact with the address bar. Today's task is to fix that, and make our application more usable with intuitive navigation options.
 
 This assignment has two starting points: one for the [Front-end (React / React-Router)](https://github.com/fterdal/ClientSideRouting-Frontend) and another for the [Back-end (Express / Sequelize)](https://github.com/fterdal/ClientSideRouting-Backend). We won't be touching the Back-end one today. If you have a finished copy of the Backend from the previous exercise (Sequelize), you're welcome to use that one instead.
 
