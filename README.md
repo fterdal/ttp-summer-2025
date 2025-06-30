@@ -97,14 +97,15 @@ June 30 - July 4
 </br>
 Off July 4 - INDEPENDENCE DAY
 
-| Topic                       | Assignment         | Lecture | Slides | Demo |
-| --------------------------- | ------------------ | ------- | ------ | ---- |
-| Client-side Routing         | [📝][routing-asst] | -       | -      | -    |
-| Review Session + CRUD App I | -                  | -       | -      | -    |
-| CRUD App II                 | -                  | -       | -      | -    |
-| Deployment & CRUD App III   | -                  | -       | -      | -    |
+| Topic                       | Assignment         | Lecture | Slides               | Demo |
+| --------------------------- | ------------------ | ------- | -------------------- | ---- |
+| Client-side Routing         | [📝][routing-asst] | -       | [🖼️][routing-slides] | -    |
+| Review Session + CRUD App I | -                  | -       | -                    | -    |
+| CRUD App II                 | -                  | -       | -                    | -    |
+| Deployment & CRUD App III   | -                  | -       | -                    | -    |
 
 [routing-asst]: ./assignments/10-ClientSideRouting.md
+[routing-slides]: ./slides/12-ClientSide-Routing.pdf
 
 CRUD: July 1st @ 10:00 AM EST - July 6th @ 11:59:59PM ET
 
