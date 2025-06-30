@@ -91,7 +91,7 @@ June 23 - June 27
 [sequelize-slides]: ./slides/11-Sequelize.pdf
 [sequelize-demo]: https://github.com/fterdal/ttp-express-code-demo/blob/sequelize-demo/database/duck.js
 
-## Week 3: Testing & Review
+## Week 3: Client-Side Routing & CRUD App
 
 June 30 - July 4
 </br>
