@@ -18,7 +18,7 @@ As always, one person in your group should fork or clone the starting point repo
 
 Today, we're graduating from using GitHub Pages! We've been using Vercel to deploy our backend code, and Vercel is also a great way to deploy front-end code. The starting point for the front-end already has a Vercel configuration that should make it seemless to deploy.
 
-One advantage of deploying to Vercel is that it offers support for environment variables. This means we could create an environment varialbe called API_URL. When we're running the application locally, API_URL is equal to `http://localhost:8080`, and when it is deployed to Vercel, it's equal to whatever backend URL we get back from our backend deployment. You should be prompted to enter in an environment variable when you deploy your Reach application, and you can always configure it later.
+One advantage of deploying to Vercel is that it offers support for environment variables. This means we could create an environment varialbe called API_URL. When we're running the application locally, API_URL is equal to `http://localhost:8080`, and when it is deployed to Vercel, it's equal to whatever backend URL Vercel gives us for our backend. You should be prompted to enter in an environment variable when you deploy your Reach application, and you can always configure it later.
 
 ## Assignment
 
