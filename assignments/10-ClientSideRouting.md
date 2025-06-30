@@ -1,4 +1,4 @@
-# Client-side Routing
+# 🚥 Client-side Routing
 
 ## Goals:
 
