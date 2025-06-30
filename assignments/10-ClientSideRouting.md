@@ -28,7 +28,7 @@ Complete the following.
 - [ ] **If the user is on a page besides / and they refresh, they are still on the same page.**
 - [ ] **When the user successfully submits the Add Task form, they are brought back to the homepage.**
 - [ ] **The user can click on a task title, and is brought to a tasks/:id page, where they see only that task, including the name of the user assigned to it.**
-- [ ] **The user can navigate the page without reloading the page (check the Network tab to confirm).**
+- [ ] **The user can navigate the application without reloading the page (check the Network tab to confirm).**
 
 ### BONUS
 
