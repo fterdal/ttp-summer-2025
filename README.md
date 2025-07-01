@@ -100,7 +100,7 @@ Off July 4 - INDEPENDENCE DAY
 | Topic                       | Assignment         | Lecture           | Slides               | Demo               |
 | --------------------------- | ------------------ | ----------------- | -------------------- | ------------------ |
 | Client-side Routing         | [📝][routing-asst] | [📺][routing-lec] | [🖼️][routing-slides] | [💻][routing-demo] |
-| Review Session + CRUD App I | [📝][crud-asst]    | -                 | -                    | -                  |
+| Review Session + CRUD App I | [📝][crud-asst]    | [📺][crud-lec]    | -                    | -                  |
 | CRUD App II                 | -                  | -                 | -                    | -                  |
 | Deployment & CRUD App III   | -                  | -                 | -                    | -                  |
 
@@ -109,8 +109,7 @@ Off July 4 - INDEPENDENCE DAY
 [routing-lec]: https://youtu.be/1tCeZ-t2LN4
 [routing-demo]: https://github.com/fterdal/Routing-Demo/blob/main/src/app.jsx
 [crud-asst]: https://docs.google.com/document/d/1NNbopxSE0JMOI1gVGuUp9gwX85KOEscdpiqGw6PZqBs/edit?usp=sharing
-
-<!-- [crud-lec]:  -->
+[crud-lec]: https://youtu.be/epiBXRsDkdc
 
 CRUD: July 1st @ 10:00 AM EST - July 6th @ 11:59:59PM ET
 
