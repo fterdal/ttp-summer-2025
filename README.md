@@ -97,12 +97,12 @@ June 30 - July 4
 </br>
 Off July 4 - INDEPENDENCE DAY
 
-| Topic                       | Assignment         | Lecture           | Slides               | Demo               |
-| --------------------------- | ------------------ | ----------------- | -------------------- | ------------------ |
-| Client-side Routing         | [📝][routing-asst] | [📺][routing-lec] | [🖼️][routing-slides] | [💻][routing-demo] |
-| Review Session + CRUD App I | [📝][crud-asst]    | [📺][crud-lec]    | -                    | -                  |
-| CRUD App II                 | -                  | -                 | -                    | -                  |
-| Deployment & CRUD App III   | -                  | -                 | -                    | -                  |
+| Topic                       | Assignment         | Lecture           | Slides               | Demo                                               |
+| --------------------------- | ------------------ | ----------------- | -------------------- | -------------------------------------------------- |
+| Client-side Routing         | [📝][routing-asst] | [📺][routing-lec] | [🖼️][routing-slides] | [💻][routing-demo]                                 |
+| Review Session + CRUD App I | [📝][crud-asst]    | [📺][crud-lec]    | -                    | -                                                  |
+| CRUD App II                 | -                  | [📺][crud2-lec]   | -                    | [💻 back][crud2-demo-be] [💻 front][crud2-demo-fe] |
+| Deployment & CRUD App III   | -                  | -                 | -                    | -                                                  |
 
 [routing-asst]: ./assignments/10-ClientSideRouting.md
 [routing-slides]: ./slides/12-ClientSide-Routing.pdf
@@ -110,6 +110,9 @@ Off July 4 - INDEPENDENCE DAY
 [routing-demo]: https://github.com/fterdal/Routing-Demo/blob/main/src/app.jsx
 [crud-asst]: https://docs.google.com/document/d/1NNbopxSE0JMOI1gVGuUp9gwX85KOEscdpiqGw6PZqBs/edit?usp=sharing
 [crud-lec]: https://youtu.be/epiBXRsDkdc
+[crud2-lec]: https://youtu.be/9VgDf-rM7b0
+[crud2-demo-be]: https://github.com/fterdal/crud-demo-1
+[crud2-demo-fe]: https://github.com/TTP-2025/crud-demo-frontend
 
 CRUD: July 1st @ 10:00 AM EST - July 6th @ 11:59:59PM ET
 
