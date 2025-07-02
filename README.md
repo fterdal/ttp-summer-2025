@@ -104,8 +104,6 @@ Off July 4 - INDEPENDENCE DAY
 | CRUD App II                 | -                  | [📺][crud2-lec]   | -                    | [💻 back][crud2-demo-be] [💻 front][crud2-demo-fe] |
 | Deployment & CRUD App III   | -                  | -                 | -                    | -                                                  |
 
-> > > > > > > 211937dc34ae5ca0a98a3ec155f5fa5d06d9c736
-
 [routing-asst]: ./assignments/10-ClientSideRouting.md
 [routing-slides]: ./slides/12-ClientSide-Routing.pdf
 [routing-lec]: https://youtu.be/1tCeZ-t2LN4
