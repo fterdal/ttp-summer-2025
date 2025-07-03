@@ -97,12 +97,12 @@ June 30 - July 4
 </br>
 Off July 4 - INDEPENDENCE DAY
 
-| Topic                       | Assignment         | Lecture                                            | Slides               | Demo                                               |
-| --------------------------- | ------------------ | -------------------------------------------------- | -------------------- | -------------------------------------------------- |
-| Client-side Routing         | [📝][routing-asst] | [📺][routing-lec]                                  | [🖼️][routing-slides] | [💻][routing-demo]                                 |
-| Review Session + CRUD App I | [📝][crud-asst]    | [📺][crud-lec]                                     | -                    | [💻][crud-demo]                                    |
-| CRUD App II                 | -                  | [📺][crud2-lec]                                    | -                    | [💻 back][crud2-demo-be] [💻 front][crud2-demo-fe] |
-| Deployment & CRUD App III   | -                  | [📺 back][crud3-demo-be] [📺 front][crud3-demo-fe] | -                    | -                                                  |
+| Topic                       | Assignment         | Lecture                                          | Slides               | Demo                                               |
+| --------------------------- | ------------------ | ------------------------------------------------ | -------------------- | -------------------------------------------------- |
+| Client-side Routing         | [📝][routing-asst] | [📺][routing-lec]                                | [🖼️][routing-slides] | [💻][routing-demo]                                 |
+| Review Session + CRUD App I | [📝][crud-asst]    | [📺][crud-lec]                                   | -                    | [💻][crud-demo]                                    |
+| CRUD App II                 | -                  | [📺][crud2-lec]                                  | -                    | [💻 back][crud2-demo-be] [💻 front][crud2-demo-fe] |
+| Deployment & CRUD App III   | -                  | [📺 back][crud3-lec-be] [📺 front][crud3-lec-fe] | -                    | [💻][crud3-demo-fe]                                |
 
 [routing-asst]: ./assignments/10-ClientSideRouting.md
 [routing-slides]: ./slides/12-ClientSide-Routing.pdf
@@ -114,8 +114,9 @@ Off July 4 - INDEPENDENCE DAY
 [crud2-lec]: https://youtu.be/9VgDf-rM7b0
 [crud2-demo-be]: https://github.com/fterdal/crud-demo-1
 [crud2-demo-fe]: https://github.com/TTP-2025/crud-demo-frontend
-[crud3-demo-be]: https://youtu.be/vWqE9Wo0rtY
-[crud3-demo-fe]: https://youtu.be/ZF7FpM6STHI
+[crud3-lec-be]: https://youtu.be/vWqE9Wo0rtY
+[crud3-lec-fe]: https://youtu.be/ZF7FpM6STHI
+[crud3-demo-fe]: https://github.com/fterdal/deployment-demo-frontend/blob/main/webpack.config.js#L13-L17
 
 CRUD: July 1st @ 10:00 AM EST - July 6th @ 11:59:59PM ET
 
