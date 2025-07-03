@@ -118,6 +118,9 @@ Off July 4 - INDEPENDENCE DAY
 [crud3-lec-fe]: https://youtu.be/ZF7FpM6STHI
 [crud3-demo-fe]: https://github.com/fterdal/deployment-demo-frontend/blob/main/webpack.config.js#L13-L17
 
+![deployment-diagram](https://github.com/user-attachments/assets/004fb1ef-d368-47dc-a1a7-95202c52648b)
+
+
 CRUD: July 1st @ 10:00 AM EST - July 6th @ 11:59:59PM ET
 
 ## Week 4: Deployment & Security, Intro to Capstone I
