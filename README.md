@@ -126,14 +126,16 @@ CRUD: July 1st @ 10:00 AM EST - July 6th @ 11:59:59PM ET
 
 July 7 - July 11
 
-| Topic                                   | Assignment      | Lecture | Slides | Demo |
-| --------------------------------------- | --------------- | ------- | ------ | ---- |
-| Registered Users and Open Authorization | [📝][auth-asst] | -       | -      | -    |
-| Security and Restrictions               | -               | -       | -      | -    |
-| Deployment                              | -               | -       | -      | -    |
-| Intro to Capstone (July 10, 11)         | -               | -       | -      | -    |
+| Topic                                   | Assignment      | Lecture        | Slides            | Demo |
+| --------------------------------------- | --------------- | -------------- | ----------------- | ---- |
+| Registered Users and Open Authorization | [📝][auth-asst] | [📺][auth-lec] | [🖼️][auth-slides] | -    |
+| Security and Restrictions               | -               | -              | -                 | -    |
+| Deployment                              | -               | -              | -                 | -    |
+| Intro to Capstone (July 10, 11)         | -               | -              | -                 | -    |
 
-[auth-asst]: 11-authentication.md
+[auth-asst]: ./assignments/11-authentication.md
+[auth-lec]: https://youtu.be/KQf9mfcycCI
+[auth-slides]: ./slides/13-Authentication.pdf
 
 ## Capstone I
 
