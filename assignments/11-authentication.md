@@ -46,7 +46,7 @@ Deployment is not a requirement of this assignment (though feel free if you are 
 If you chose to work from a finished CRUD app, use the CRUD-Frontend repo for the frontend. Otherwise, you can use the CRUD-Frontend starting point repo:
 
 ```
-git clone https://github.com/TTP-2025/CRUD-Backend
+git clone https://github.com/TTP-2025/CRUD-Frontend
 git checkout add-auth
 ```
 
