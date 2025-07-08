@@ -133,7 +133,7 @@ July 7 - July 11
 | Review                                 | -               | -              | -                 | -    |
 | Intro to Capstone (July 10, 11)        | -               | -              | -                 | -    |
 
-[auth-asst]: ./assignments/11-authentication.md
+[auth-asst]: ./assignments/11-Authentication.md
 [auth-lec]: https://youtu.be/KQf9mfcycCI
 [auth-slides]: ./slides/13-Authentication.pdf
 

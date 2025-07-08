@@ -1,5 +1,8 @@
 # 🚥 Client-side Routing
 
+- **Due** July 1, 2025 by 10:00:00 AM EDT
+- **Submitting** Fill out all of the appropriate information in the Cohort Spreadsheet
+
 ## Goals:
 
 - Describe the difference between server-side and client-side routing

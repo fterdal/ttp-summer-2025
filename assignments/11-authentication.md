@@ -1,5 +1,8 @@
 # 🔐 Authentication
 
+- **Due** July 8, 2025 by 10:00:00 AM EDT
+- **Submitting** Fill out all of the appropriate information in the Cohort Spreadsheet
+
 ## Goals:
 
 - Understand cookies and JSON Web Tokens on the server-side
