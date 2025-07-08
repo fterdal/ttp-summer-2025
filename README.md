@@ -126,17 +126,18 @@ CRUD: July 1st @ 10:00 AM EST - July 6th @ 11:59:59PM ET
 
 July 7 - July 11
 
-| Topic                                  | Assignment       | Lecture        | Slides            | Demo |
-| -------------------------------------- | ---------------- | -------------- | ----------------- | ---- |
-| Registered Users, Authentication, JWTs | [📝][auth-asst]  | [📺][auth-lec] | [🖼️][auth-slides] | -    |
-| OAuth, Security, & Restrictions        | [📝][oauth-asst] | -              | -                 | -    |
-| Review                                 | -                | -              | -                 | -    |
-| Intro to Capstone (July 10, 11)        | -                | -              | -                 | -    |
+| Topic                                  | Assignment       | Lecture        | Slides             | Demo |
+| -------------------------------------- | ---------------- | -------------- | ------------------ | ---- |
+| Registered Users, Authentication, JWTs | [📝][auth-asst]  | [📺][auth-lec] | [🖼️][auth-slides]  | -    |
+| OAuth, Security, & Restrictions        | [📝][oauth-asst] | -              | [🖼️][oauth-slides] | -    |
+| Review                                 | -                | -              | -                  | -    |
+| Intro to Capstone (July 10, 11)        | -                | -              | -                  | -    |
 
 [auth-asst]: ./assignments/11-Authentication.md
 [auth-lec]: https://youtu.be/KQf9mfcycCI
 [auth-slides]: ./slides/13-Authentication.pdf
 [oauth-asst]: ./assignments/12-OAuth.md
+[oauth-slides]: ./slides/14-OAuth.pdf
 
 ## Capstone I
 
