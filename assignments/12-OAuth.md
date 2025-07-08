@@ -32,6 +32,8 @@ You can look at `.env.example` for an example of what those values should look l
 
 When you are creating your account, you'll want to go to the Marketplace tab, add GitHub, and then add it to your new project. You'll be asked what kind of access you'll need for the user's GitHub: you should at least have their email address. Look at the various scopes and see what they enable. (HINT: You'll probably want access to the repo scope.)
 
+<img width="978" alt="Screenshot 2025-07-08 at 12 17 29 AM" src="https://github.com/user-attachments/assets/25d1f13e-e022-4957-84c5-8f0a750f1418" />
+
 You'll know you have it set up when you can click "Login with Auth0" and be redirected to an Auth0 page where you can successfully connect with Google or GitHub.
 
 ## Deployment
