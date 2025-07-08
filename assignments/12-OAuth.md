@@ -27,8 +27,8 @@ const App = () => {
 };
 ```
 
-If you run the app as-is, it will not work. That's because it's expecting a .env file with several environment variables in it.
-You can look at .env.example for an example of what those values should look like. You'll need to create an Auth0 account to find the values to enter there.
+If you run the app as-is, it will not work. That's because it's expecting a `.env` file with several environment variables in it.
+You can look at `.env.example` for an example of what those values should look like. You'll need to create an Auth0 account to find the appropriate values.
 
 When you are creating your account, you'll want to go to the Marketplace tab, add GitHub, and then add it to your new project. You'll be asked what kind of access you'll need for the user's GitHub: you should at least have their email address. Look at the various scopes and see what they enable. (HINT: You'll probably want access to the repo scope.)
 
