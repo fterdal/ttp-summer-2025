@@ -126,12 +126,12 @@ CRUD: July 1st @ 10:00 AM EST - July 6th @ 11:59:59PM ET
 
 July 7 - July 11
 
-| Topic                                  | Assignment       | Lecture         | Slides             | Demo |
-| -------------------------------------- | ---------------- | --------------- | ------------------ | ---- |
-| Registered Users, Authentication, JWTs | [📝][auth-asst]  | [📺][auth-lec]  | [🖼️][auth-slides]  | -    |
-| OAuth, Security, & Restrictions        | [📝][oauth-asst] | [📺][oauth-lec] | [🖼️][oauth-slides] | -    |
-| Review                                 | -                | -               | -                  | -    |
-| Intro to Capstone (July 10, 11)        | -                | -               | -                  | -    |
+| Topic                                  | Assignment       | Lecture          | Slides             | Demo |
+| -------------------------------------- | ---------------- | ---------------- | ------------------ | ---- |
+| Registered Users, Authentication, JWTs | [📝][auth-asst]  | [📺][auth-lec]   | [🖼️][auth-slides]  | -    |
+| OAuth, Security, & Restrictions        | [📝][oauth-asst] | [📺][oauth-lec]  | [🖼️][oauth-slides] | -    |
+| Review                                 | -                | [📺][review-lec] | -                  | -    |
+| Intro to Capstone (July 10, 11)        | -                | -                | -                  | -    |
 
 [auth-asst]: ./assignments/11-Authentication.md
 [auth-lec]: https://youtu.be/KQf9mfcycCI
@@ -139,6 +139,7 @@ July 7 - July 11
 [oauth-asst]: ./assignments/12-OAuth.md
 [oauth-lec]: https://youtu.be/1dUihA0zgH8
 [oauth-slides]: ./slides/14-OAuth.pdf
+[review-lec]: https://youtu.be/0X6pKqrOX4A
 
 ## Capstone I
 
