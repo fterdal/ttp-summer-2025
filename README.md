@@ -126,12 +126,15 @@ CRUD: July 1st @ 10:00 AM EST - July 6th @ 11:59:59PM ET
 
 July 7 - July 11
 
-| Topic                                  | Assignment       | Lecture          | Slides             | Demo |
-| -------------------------------------- | ---------------- | ---------------- | ------------------ | ---- |
-| Registered Users, Authentication, JWTs | [📝][auth-asst]  | [📺][auth-lec]   | [🖼️][auth-slides]  | -    |
-| OAuth, Security, & Restrictions        | [📝][oauth-asst] | [📺][oauth-lec]  | [🖼️][oauth-slides] | -    |
-| Review                                 | -                | [📺][review-lec] | -                  | -    |
-| Intro to Capstone (July 10, 11)        | -                | -                | -                  | -    |
+| Topic                                  | Assignment            | Lecture              | Slides             | Demo |
+| -------------------------------------- | --------------------- | -------------------- | ------------------ | ---- |
+| Registered Users, Authentication, JWTs | [📝][auth-asst]       | [📺][auth-lec]       | [🖼️][auth-slides]  | -    |
+| OAuth, Security, & Restrictions        | [📝][oauth-asst]      | [📺][oauth-lec]      | [🖼️][oauth-slides] | -    |
+| Review                                 | -                     | [📺][review-lec]     | -                  | -    |
+| Intro to Capstone (July 10, 11)        | [📝][capstone-i-asst] | [📺][capstone-i-lec] | -                  | -    |
+
+[Capstone I: Working Together](https://gist.github.com/fterdal/48243b57e60f798062858051f57c6c5d)
+[How To Make a GitHub Organization][github-org-lec]
 
 [auth-asst]: ./assignments/11-authentication.md
 [auth-lec]: https://youtu.be/KQf9mfcycCI
@@ -140,6 +143,9 @@ July 7 - July 11
 [oauth-lec]: https://youtu.be/1dUihA0zgH8
 [oauth-slides]: ./slides/14-OAuth.pdf
 [review-lec]: https://youtu.be/0X6pKqrOX4A
+[capstone-i-asst]: https://gist.github.com/fterdal/50953505d463835d979d31b1ea235c7f
+[capstone-i-lec]: https://youtu.be/Ul_aBTFOZM4
+[github-org-lec]: https://youtu.be/ixWmUawbQfI
 
 ## Capstone I
 
