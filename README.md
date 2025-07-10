@@ -134,6 +134,7 @@ July 7 - July 11
 | Intro to Capstone (July 10, 11)        | [📝][capstone-i-asst] | [📺][capstone-i-lec] | -                  | -    |
 
 [Capstone I: Working Together](https://gist.github.com/fterdal/48243b57e60f798062858051f57c6c5d)
+</br>
 [How To Make a GitHub Organization][github-org-lec]
 
 [auth-asst]: ./assignments/11-authentication.md
