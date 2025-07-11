@@ -133,9 +133,11 @@ July 7 - July 11
 | Review                                 | -                     | [📺][review-lec]     | -                  | -    |
 | Intro to Capstone (July 10, 11)        | [📝][capstone-i-asst] | [📺][capstone-i-lec] | -                  | -    |
 
-[Capstone I: Working Together](https://gist.github.com/fterdal/48243b57e60f798062858051f57c6c5d)
+[📖 Capstone I: Working Together](https://gist.github.com/fterdal/48243b57e60f798062858051f57c6c5d)
 </br>
-[How To Make a GitHub Organization][github-org-lec]
+[📖 How To Make a GitHub Organization][github-org-lec]
+
+[📺 Morning Announcements 07/11](https://youtu.be/3Rl8WqIaJoA)
 
 [auth-asst]: ./assignments/11-authentication.md
 [auth-lec]: https://youtu.be/KQf9mfcycCI
