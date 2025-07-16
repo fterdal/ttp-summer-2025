@@ -154,6 +154,13 @@ July 7 - July 11
 
 July 14 - July 25
 
+| Topic                                  | Assignment            | Lecture              | Slides             | Demo |
+| -------------------------------------- | --------------------- | -------------------- | ------------------ | ---- |
+| Collaboration Check-in | -       | [📺][collab-checkin-lec]       | [🖼️][collab-checkin-slides]  | -    |
+
+[collab-checkin-lec]: https://youtu.be/Af2Bi7VhbFU
+[collab-checkin-slides]: https://gist.github.com/fterdal/f9d6e9140e140ba8a1874cacaf674944
+
 ## Capstone II
 
 July 28 - August 22
