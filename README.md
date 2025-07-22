@@ -165,7 +165,7 @@ July 14 - July 25
 [ai-tools-lec]: https://youtu.be/51i3sq1vbaA
 [ai-tools-slides]: https://gist.github.com/fterdal/6e8b5efde9bd67f9c695d7ee0c9bbe20
 [websockets-lec]: https://youtu.be/h0tyEwo2zgI
-[websockets-slides]: #
+[websockets-slides]: ./slides/15-WebSockets.pdf
 [websockets-demo-be]: https://github.com/fterdal/Sockets-Demo-Backend
 [websockets-demo-fe]: https://github.com/fterdal/Sockets-Demo-Frontend
 
