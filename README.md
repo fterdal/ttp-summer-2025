@@ -154,16 +154,20 @@ July 7 - July 11
 
 July 14 - July 25
 
-| Topic                                  | Assignment            | Lecture              | Slides             | Demo |
-| -------------------------------------- | --------------------- | -------------------- | ------------------ | ---- |
-| Collaboration Check-in | -       | [📺][collab-checkin-lec]       | [🖼️][collab-checkin-slides]  | -    |
-| AI Coding Tools | -       | [📺][ai-tools-lec]       | [📖][ai-tools-slides]  | -    |
+| Topic                  | Assignment | Lecture                  | Slides                      | Demo                                                         |
+| ---------------------- | ---------- | ------------------------ | --------------------------- | ------------------------------------------------------------ |
+| Collaboration Check-in | -          | [📺][collab-checkin-lec] | [🖼️][collab-checkin-slides] | -                                                            |
+| AI Coding Tools        | -          | [📺][ai-tools-lec]       | [📖][ai-tools-slides]       | -                                                            |
+| WebSockets             | -          | [📺][websockets-lec]     | [🖼️][websockets-slides]     | [💻 back][websockets-demo-be] [💻 front][websockets-demo-fe] |
 
 [collab-checkin-lec]: https://youtu.be/Af2Bi7VhbFU
 [collab-checkin-slides]: https://gist.github.com/fterdal/f9d6e9140e140ba8a1874cacaf674944
-
 [ai-tools-lec]: https://youtu.be/51i3sq1vbaA
 [ai-tools-slides]: https://gist.github.com/fterdal/6e8b5efde9bd67f9c695d7ee0c9bbe20
+[websockets-lec]: https://youtu.be/h0tyEwo2zgI
+[websockets-slides]: #
+[websockets-demo-be]: https://github.com/fterdal/Sockets-Demo-Backend
+[websockets-demo-fe]: https://github.com/fterdal/Sockets-Demo-Frontend
 
 ## Capstone II
 
