@@ -161,6 +161,8 @@ July 14 - July 25
 | WebSockets             | -          | [📺][websockets-lec]     | [🖼️][websockets-slides]     | [💻 back][websockets-demo-be] [💻 front][websockets-demo-fe] |
 | IRV Algorithm          | -          | [📺][irv-algo-lec]       | [🖼️][irv-algo-photos]       | -                                                            |
 
+[📖 Capstone II Guidelines](https://gist.github.com/fterdal/a09bfb22d66e968f8a100c4c68c29128)
+
 [collab-checkin-lec]: https://youtu.be/Af2Bi7VhbFU
 [collab-checkin-slides]: https://gist.github.com/fterdal/f9d6e9140e140ba8a1874cacaf674944
 [ai-tools-lec]: https://youtu.be/51i3sq1vbaA
