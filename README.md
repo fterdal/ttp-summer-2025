@@ -169,7 +169,7 @@ July 14 - July 25
 [websockets-slides]: ./slides/15-WebSockets.pdf
 [websockets-demo-be]: https://github.com/fterdal/Sockets-Demo-Backend
 [websockets-demo-fe]: https://github.com/fterdal/Sockets-Demo-Frontend
-[irv-algo-lev]: https://youtu.be/OO1CeTxtFhQ
+[irv-algo-lec]: https://youtu.be/OO1CeTxtFhQ
 
 ## Capstone II
 
