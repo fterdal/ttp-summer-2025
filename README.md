@@ -159,7 +159,7 @@ July 14 - July 25
 | Collaboration Check-in | -          | [📺][collab-checkin-lec] | [🖼️][collab-checkin-slides] | -                                                            |
 | AI Coding Tools        | -          | [📺][ai-tools-lec]       | [📖][ai-tools-slides]       | -                                                            |
 | WebSockets             | -          | [📺][websockets-lec]     | [🖼️][websockets-slides]     | [💻 back][websockets-demo-be] [💻 front][websockets-demo-fe] |
-| IRV Algorithm             | -          | [📺][irv-algo-lec]     | -    | - |
+| IRV Algorithm          | -          | [📺][irv-algo-lec]       | -                           | -                                                            |
 
 [collab-checkin-lec]: https://youtu.be/Af2Bi7VhbFU
 [collab-checkin-slides]: https://gist.github.com/fterdal/f9d6e9140e140ba8a1874cacaf674944
@@ -170,6 +170,7 @@ July 14 - July 25
 [websockets-demo-be]: https://github.com/fterdal/Sockets-Demo-Backend
 [websockets-demo-fe]: https://github.com/fterdal/Sockets-Demo-Frontend
 [irv-algo-lec]: https://youtu.be/OO1CeTxtFhQ
+[irv-algo-photos]: #
 
 ## Capstone II
 
