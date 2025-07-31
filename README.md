@@ -176,7 +176,8 @@ July 14 - July 25
 
 ## Capstone II
 
-July 28 - August 22
+July 28 - August 25
 
 [💻 Frontend Starting Point](https://github.com/fterdal/Capstone-2-Frontend)
+
 [💻 Backend Starting Point](https://github.com/fterdal/Capstone-2-Backend)
