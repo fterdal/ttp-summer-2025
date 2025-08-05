@@ -181,3 +181,5 @@ July 28 - August 25
 [💻 Frontend Starting Point](https://github.com/fterdal/Capstone-2-Frontend)
 </br>
 [💻 Backend Starting Point](https://github.com/fterdal/Capstone-2-Backend)
+</br>
+[📺 Curriculum Review]: https://youtu.be/ns1yQN7mrfs
