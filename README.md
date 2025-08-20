@@ -185,3 +185,9 @@ July 28 - August 25
 [📺 Curriculum Review](https://youtu.be/ns1yQN7mrfs)
 </br>
 [📺 Capstone II Presentation Guidelines](https://youtu.be/iHuCIADXtcU)
+</br>
+[📺 Testing](https://youtu.be/rWVeGIgMxcc)
+</br>
+[💻 Testing (front)](https://github.com/fterdal/TestDriven-Frontend-Solution)
+</br>
+[💻 Testing (back)](https://github.com/fterdal/TestDriven-Backend-Solution)
