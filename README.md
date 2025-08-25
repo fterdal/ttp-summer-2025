@@ -191,3 +191,6 @@ July 28 - August 25
 [💻 Testing (front)](https://github.com/fterdal/TestDriven-Frontend-Solution)
 </br>
 [💻 Testing (back)](https://github.com/fterdal/TestDriven-Backend-Solution)
+</br>
+[]()
+[🖼️ Resume Slides](#)
