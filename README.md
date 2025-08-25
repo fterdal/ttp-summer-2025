@@ -180,16 +180,16 @@ July 28 - August 25
 
 | Topic                    | Assignment | Lecture                    | Slides                       | Demo / Starting Point                                            |
 | ------------------------ | ---------- | -------------------------- | ---------------------------- | ---------------------------------------------------------------- |
-| Capstone II              | -          | [📺][collab-checkin-lec]   | [📖][capstone-ii-guide]      | [💻 back][capstone-ii-start-be] [💻 front][capstone-ii-start-fe] |
+| Capstone II              | -          | -                          | [📖][capstone-ii-guide]      | [💻 back][capstone-ii-start-be] [💻 front][capstone-ii-start-fe] |
 | Curriculum Review        | -          | [📺][curriculum-rev-lec]   | -                            | -                                                                |
 | Capstone II Presentation | -          | [📺][capstone-ii-pres-lec] | [📖][capstone-ii-pres-guide] | -                                                                |
-| Testing                  | -          | [📺][testing-lec]          | [🖼️][websockets-slides]      | [💻 back][websockets-demo-be] [💻 front][websockets-demo-fe]     |
+| Testing                  | -          | [📺][testing-lec]          | -                            | [💻 back][testing-start-be] [💻 front][testing-start-fe]         |
 | Build Your Resume        | -          | -                          | [🖼️][resume-slides]          | -                                                                |
 
 [capstone-ii-guide]: https://gist.github.com/fterdal/a09bfb22d66e968f8a100c4c68c29128
 [capstone-ii-start-fe]: https://github.com/fterdal/Capstone-2-Frontend
 [capstone-ii-start-be]: https://github.com/fterdal/Capstone-2-Backend
-[curriculum-rev-lec]: (https://youtu.be/ns1yQN7mrfs
+[curriculum-rev-lec]: https://youtu.be/ns1yQN7mrfs
 [capstone-ii-pres-lec]: https://youtu.be/iHuCIADXtcU
 [capstone-ii-pres-guide]: https://gist.github.com/fterdal/c4fd55e9638c25f6e0b4c537eab72f6b
 [testing-lec]: https://youtu.be/rWVeGIgMxcc
