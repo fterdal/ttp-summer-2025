@@ -184,7 +184,7 @@ July 28 - August 25
 | Curriculum Review        | -          | [📺][curriculum-rev-lec]   | -                            | -                                                                |
 | Capstone II Presentation | -          | [📺][capstone-ii-pres-lec] | [📖][capstone-ii-pres-guide] | -                                                                |
 | Testing                  | -          | [📺][testing-lec]          | -                            | [💻 back][testing-start-be] [💻 front][testing-start-fe]         |
-| Build Your Resume        | -          | -                          | [🖼️][resume-slides]          | -                                                                |
+| Build Your Resume        | -          | [📺][resume-lec]           | [🖼️][resume-slides]          | -                                                                |
 
 [capstone-ii-guide]: https://gist.github.com/fterdal/a09bfb22d66e968f8a100c4c68c29128
 [capstone-ii-start-fe]: https://github.com/fterdal/Capstone-2-Frontend
@@ -196,3 +196,4 @@ July 28 - August 25
 [testing-start-be]: https://github.com/fterdal/TestDriven-Backend-Solution
 [testing-start-fe]: https://github.com/fterdal/TestDriven-Frontend-Solution
 [resume-slides]: ./slides/Designing%20Your%20Resume.pdf
+[resume-lec]: https://youtu.be/M0p2c1DuXfA
