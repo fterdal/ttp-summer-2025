@@ -183,7 +183,7 @@ July 28 - August 25
 | Capstone II              | -          | -                          | [📖][capstone-ii-guide]      | [💻 back][capstone-ii-start-be] [💻 front][capstone-ii-start-fe] |
 | Curriculum Review        | -          | [📺][curriculum-rev-lec]   | -                            | -                                                                |
 | Capstone II Presentation | -          | [📺][capstone-ii-pres-lec] | [📖][capstone-ii-pres-guide] | -                                                                |
-| Testing                  | -          | [📺][testing-lec]          | -                            | [💻 back][testing-start-be] [💻 front][testing-start-fe]         |
+| Testing                  | -          | [📺][testing-lec]          | [🖼️][testing-slides]         | [💻 back][testing-start-be] [💻 front][testing-start-fe]         |
 | Build Your Resume        | -          | [📺][resume-lec]           | [🖼️][resume-slides]          | -                                                                |
 
 [capstone-ii-guide]: https://gist.github.com/fterdal/a09bfb22d66e968f8a100c4c68c29128
@@ -193,6 +193,7 @@ July 28 - August 25
 [capstone-ii-pres-lec]: https://youtu.be/iHuCIADXtcU
 [capstone-ii-pres-guide]: https://gist.github.com/fterdal/c4fd55e9638c25f6e0b4c537eab72f6b
 [testing-lec]: https://youtu.be/rWVeGIgMxcc
+[testing-slides]: /slides/16-Testing.pdf
 [testing-start-be]: https://github.com/fterdal/TestDriven-Backend-Solution
 [testing-start-fe]: https://github.com/fterdal/TestDriven-Frontend-Solution
 [resume-slides]: ./slides/Designing%20Your%20Resume.pdf
